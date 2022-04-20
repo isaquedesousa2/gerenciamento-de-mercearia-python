@@ -24,7 +24,8 @@ Para usar `gerenciamento_de_mercearia`, siga estas etapas:
 
 ```
 $ git clone https://github.com/isaquedesousa2/gerenciamento-de-mercearia-python.git
-
+```
+```
 Execute o arquivo view.py no terminal
 ```
 
