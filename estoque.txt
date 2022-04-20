@@ -1,0 +1,2 @@
+Uva|23|Frutas|12291
+Laranja|231|Frutas|23
