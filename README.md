@@ -22,10 +22,10 @@ Antes de começar, verifique se você atendeu aos seguintes requisitos:
 
 Para usar `gerenciamento_de_mercearia`, siga estas etapas:
 
-```bash
+```
 $ git clone https://github.com/isaquedesousa2/gerenciamento-de-mercearia-python.git
 
-Execute o arquivo `view.py` no terminal
+Execute o arquivo view.py no terminal
 ```
 
 
